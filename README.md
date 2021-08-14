@@ -2,10 +2,14 @@
 :wave: Hi there, I'm Kishor.😀
 I am working as a Lecturer in the Department of Computer Science at American International University-Bangladesh (AIUB). 
 
+To learn more about me, please visit my personal website: https://kishormorol.github.io 
+<h3 align="center"> Connect with Me at </h3>
 
- 
-![Profile views](https://gpvc.arturio.dev/kishormorol) To learn more about me, please visit my personal website: https://kishormorol.github.io 
-
+<p align="center">
+<a href="mailto:kishoremorol@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-kishoremorol@gmail.com-red?style=flat&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/kishormorol"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-kishormorol-blue?style=flat&logo=linkedin"></a>
+</p>
+  
 
 <p align="center">
    <table>
@@ -19,3 +23,5 @@ I am working as a Lecturer in the Department of Computer Science at American Int
      </tr>
    </table>
 </p>
+
+![Profile views](https://gpvc.arturio.dev/kishormorol)
