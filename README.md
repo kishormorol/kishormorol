@@ -1,9 +1,22 @@
 # Md. Kishor Morol
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kishormorol&show_icons=true&count_private=true&theme=dark" alt="kishormorol" />
-  
 :wave: Hi there, I'm Kishor.😀
 I am working as a Lecturer in the Department of Computer Science at American International University-Bangladesh (AIUB). 
 
-![Profile views](https://gpvc.arturio.dev/kishormorol)
+
  
-To learn more about me, please visit my personal website: https://kishormorol.github.io
+![Profile views](https://gpvc.arturio.dev/kishormorol) To learn more about me, please visit my personal website: https://kishormorol.github.io 
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kishormorol&custom_title=Wakatime&theme=dark&layout=compact&langs_count=5" alt="kishormorol:: Wakatime Stats" /></p>
+
+<p align="center">
+   <table>
+      <tr>
+       <th>Profile stats  </th>
+       <th>Language Contribution</th>
+     </tr>
+      <tr>
+       <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=kishormorol&show_icons=true&theme=dark"> </td>
+       <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishormorol&langs_count=10&theme=tokyonight&layout=compact&hide=html"> </td>
+     </tr>
+   </table>
+</p>
