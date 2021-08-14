@@ -6,7 +6,6 @@ I am working as a Lecturer in the Department of Computer Science at American Int
  
 ![Profile views](https://gpvc.arturio.dev/kishormorol) To learn more about me, please visit my personal website: https://kishormorol.github.io 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kishormorol&custom_title=Wakatime&theme=dark&layout=compact&langs_count=5" alt="kishormorol:: Wakatime Stats" /></p>
 
 <p align="center">
    <table>
