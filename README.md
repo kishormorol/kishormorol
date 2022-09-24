@@ -1,8 +1,8 @@
 # Md. Kishor Morol
 :wave: Hi there, I'm Kishor.😀
-I am working as a Lecturer in the Department of Computer Science at American International University-Bangladesh (AIUB). 
+I am working as an Assistant Professor in the Department of Computer Science at American International University-Bangladesh (AIUB). 
 
-To learn more about me, please visit my personal website: https://kishormorol.github.io 
+To learn more my research, please visit https://kiresearchlab.org/
 <h3 align="center"> Connect with Me at </h3>
 
 <p align="center">
