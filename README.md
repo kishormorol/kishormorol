@@ -1,5 +1,6 @@
 # Md. Kishor Morol
 :wave: Hi there 😀
+
 This is Md Kishor Morol, working as a Data Scientist at Classy Beauty Warehouse Inc., contributing his expertise in machine learning to analyze extensive datasets, forecast product demand, and optimize inventory levels. His role involves deploying machine learning models for real-time decision-making and creating insightful dashboards using tools like Tableau and Power BI.
 
 In academia, he served as an Assistant Professor at American International University-Bangladesh, teaching courses in algorithms, data science, and machine learning. His industry journey as an AI/ML Engineer at DeepChain Labs included spearheading projects in sentiment analysis, predictive analytics, and building efficient chatbots using various ML algorithms.
@@ -38,4 +39,3 @@ Feel free to reach out for a more detailed discussion or if you would like to ex
    </table>
 </p>
 
-![Profile views](https://gpvc.arturio.dev/kishormorol)
