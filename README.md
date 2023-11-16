@@ -21,7 +21,7 @@ Feel free to reach out for a more detailed discussion or if you would like to ex
 
 <p align="center">
 <a href="mailto:kishoremorol@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-kishoremorol@gmail.com-red?style=flat&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/kishormorol"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-kishormorol-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/kmorol"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-kishormorol-blue?style=flat&logo=linkedin"></a>
 </p>
   
 
