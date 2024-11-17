@@ -3,9 +3,7 @@
 
 My name is Kishor!
 
-I am working as a Data Scientist at Classy Beauty Warehouse Inc., contributing my expertise in machine learning to analyze extensive datasets, forecast product demand, and optimize inventory levels. My role involves deploying machine learning models for real-time decision-making and creating insightful dashboards using tools like Tableau and Power BI. In academia, I served as an Assistant Professor at American International University-Bangladesh, teaching courses in algorithms, data science, and machine learning.
-
-Had an MS in Computer Science from American International University-Bangladesh, I also hold a Bachelor's degree in Computer Science & Software Engineering, achieving distinctions such as the Vice Chancellor’s Gold Medal and Magna Cum Laude. My technical skill set encompasses programming languages, machine learning, deep learning, NLP, and more.
+Md Kishor Morol is an Adjunct Faculty member at St. Thomas University, Miami, FL, and a Machine Learning Engineer at Deloitte, specializing in building advanced AI solutions like Generative AI (GenAI) and Explainable AI (xAI). With over 8 years of academic and industry experience, he leads ELITE Lab, focusing on cutting-edge NLP and ML research with real-world applications.
 
 Feel free to reach out for a more detailed discussion or if you would like to explore potential collaborations.
 
@@ -14,7 +12,7 @@ Feel free to reach out for a more detailed discussion or if you would like to ex
 
 <p align="center">
 <a href="mailto:kishoremorol@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-kishoremorol@gmail.com-red?style=flat&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/kmorol"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-kishormorol-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/kishormorol"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-kishormorol-blue?style=flat&logo=linkedin"></a>
 </p>
   
 
