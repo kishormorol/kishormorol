@@ -2,8 +2,6 @@
 :wave: Hi there 😀
 
 
-Md Kishor Morol is a Machine Learning Engineer at Deloitte, specializing in building advanced AI solutions like Generative AI (GenAI) and Explainable AI (xAI). With over 8 years of academic and industry experience, he leads ELITE Lab, focusing on cutting-edge NLP and ML research with real-world applications.
-
 Feel free to reach out for a more detailed discussion or if you would like to explore potential collaborations.
 
 
