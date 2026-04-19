@@ -1,4 +1,4 @@
-# Md. Kishor Morol
+# Kishor
 :wave: Hi there 😀
 
 
