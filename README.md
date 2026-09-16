@@ -35,6 +35,17 @@ I build open tools for researchers and AI practitioners, and I study how languag
 
 ---
 
+### 📊 Open data on Hugging Face
+
+| Dataset | Rows | License |
+|---|---|---|
+| [**researchscope-papers**](https://huggingface.co/datasets/kishormorol/researchscope-papers) | 100,000+ CS papers, scored and sectioned | CC BY 4.0 |
+| [**bangla-nlp-catalog**](https://huggingface.co/datasets/kishormorol/bangla-nlp-catalog) | 712 papers, 63 datasets, 20 models, 9 tools for Bangla NLP | MIT |
+| [**llm-skills-registry**](https://huggingface.co/datasets/kishormorol/llm-skills-registry) | 226 first-party AI skills across 13 ecosystems | CC BY 4.0 |
+| [**promptlean-prompts**](https://huggingface.co/datasets/kishormorol/promptlean-prompts) | 120 prompts × 3 token-efficiency variants | MIT |
+
+---
+
 ### 🤝 Get in touch
 
 Open to research collaborations and contributors on any of the projects above. Issues and PRs are welcome.
