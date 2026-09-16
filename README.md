@@ -2,7 +2,7 @@
 
 I build open tools for researchers and AI practitioners, and I study how language models and agents behave when the stakes are real.
 
-**Research focus:** AI safety · LLM agents · NLP for low-resource languages (Bangla) · explainable AI · AI for science
+**Research focus:** AI safety · LLM agents · NLP for low-resource languages (Bangla) · explainable AI · AI for science<br>
 **Track record:** 73+ publications · 870+ citations · h-index 13
 
 ---
