@@ -39,7 +39,7 @@ I build open tools for researchers and AI practitioners, and I study how languag
 
 Open to research collaborations and contributors on any of the projects above. Issues and PRs are welcome.
 
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-873%2B_citations-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=pjn3jg4AAAAJ)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-870%2B_citations-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=pjn3jg4AAAAJ)
 [![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-kishormorol-yellow?style=flat)](https://huggingface.co/kishormorol)
 [![X](https://img.shields.io/badge/X-@kishormorol-black?style=flat&logo=x)](https://x.com/kishormorol)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kishormorol-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kishormorol)
