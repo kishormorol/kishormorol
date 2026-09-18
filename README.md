@@ -3,7 +3,7 @@
 I build open tools for researchers and AI practitioners, and I study how language models and agents behave when the stakes are real.
 
 **Research focus:** AI safety · LLM agents · NLP for low-resource languages (Bangla) · explainable AI · AI for science<br>
-**Track record:** 73+ publications · 870+ citations · h-index 13
+**Track record:** 73+ publications · 900+ citations · h-index 14
 
 ---
 
@@ -22,9 +22,10 @@ I build open tools for researchers and AI practitioners, and I study how languag
 | Project | What it does |
 |---|---|
 | [**nightaudit**](https://github.com/kishormorol/nightaudit) | Your AI works the night shift: read-only reviews of your projects, one digest every morning. |
-| [**Agent Command Atlas**](https://github.com/kishormorol/agent-command-atlas) · [live](https://kishormorol.github.io/agent-command-atlas/) | Searchable, source-linked atlas of commands, flags and shortcuts across Claude Code, Codex, Gemini CLI, Cursor and Copilot CLI. |
-| [**SkillsAllYouNeed**](https://github.com/kishormorol/SkillsAllYouNeed) · [live](https://kishormorol.github.io/SkillsAllYouNeed/) | Directory of every first-party skill and tool across Claude, ChatGPT, Gemini, Codex and DeepSeek. |
+| [**Agent Command Atlas**](https://github.com/kishormorol/agent-command-atlas) · [live](https://kishormorol.github.io/agent-command-atlas/) | Searchable, source-linked atlas of commands, flags and shortcuts across Claude Code, Codex, Gemini CLI, Cursor, Copilot CLI and Muse Code. |
+| [**SkillsAllYouNeed**](https://github.com/kishormorol/SkillsAllYouNeed) · [live](https://kishormorol.github.io/SkillsAllYouNeed/) | Directory of every first-party skill and tool across 13 AI ecosystems, including Claude, ChatGPT, Gemini, Codex, Cursor and Copilot. |
 | [**promptlean**](https://github.com/kishormorol/promptlean) · [live](https://kishormorol.github.io/promptlean/) | Token-efficient prompt library, each prompt in Lean, Balanced and Max Quality variants. |
+| [**blast-radius**](https://github.com/kishormorol/blast-radius) | An Agent Skill for the moment before a bulk write: classify every affected row before touching any of them. |
 
 **Research code**
 
@@ -32,6 +33,7 @@ I build open tools for researchers and AI practitioners, and I study how languag
 |---|---|
 | [**agent-repair**](https://github.com/kishormorol/agent-repair) | When a multi-step LLM agent fails, where should recovery begin: repair the trajectory or restart? |
 | [**alexa-language-bridge**](https://github.com/kishormorol/alexa-language-bridge) | An Alexa+ MCP add-on that lets a household member who doesn't speak English use the home in their own language and script. |
+| [**banglachhanda**](https://github.com/kishormorol/banglachhanda) | Can Bangla meter (chhanda) be scanned by rule? An annotation guideline, a scanner baseline and a pilot corpus. |
 
 ---
 
@@ -43,6 +45,9 @@ I build open tools for researchers and AI practitioners, and I study how languag
 | [**bangla-nlp-catalog**](https://huggingface.co/datasets/kishormorol/bangla-nlp-catalog) | 712 papers, 63 datasets, 20 models, 9 tools for Bangla NLP | MIT |
 | [**llm-skills-registry**](https://huggingface.co/datasets/kishormorol/llm-skills-registry) | 226 first-party AI skills across 13 ecosystems | CC BY 4.0 |
 | [**promptlean-prompts**](https://huggingface.co/datasets/kishormorol/promptlean-prompts) | 120 prompts × 3 token-efficiency variants | MIT |
+| [**banglachhanda**](https://huggingface.co/datasets/kishormorol/banglachhanda) | 153 Bangla poems (7,009 lines) plus a 316-line scansion pilot, not yet gold | CC BY-SA 4.0 |
+
+The web tools above also run as 🤗 Spaces: [ResearchScope](https://huggingface.co/spaces/kishormorol/ResearchScope) · [CiteLens](https://huggingface.co/spaces/kishormorol/CiteLens) · [BanglaNLP Hub](https://huggingface.co/spaces/kishormorol/BanglaNLP-Hub) · [Agent Command Atlas](https://huggingface.co/spaces/kishormorol/agent-command-atlas) · [SkillsAllYouNeed](https://huggingface.co/spaces/kishormorol/SkillsAllYouNeed) · [promptlean](https://huggingface.co/spaces/kishormorol/promptlean)
 
 ---
 
@@ -68,7 +73,7 @@ I build open tools for researchers and AI practitioners, and I study how languag
 
 Open to research collaborations and contributors on any of the projects above. Issues and PRs are welcome.
 
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-870%2B_citations-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=pjn3jg4AAAAJ)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-900%2B_citations-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=pjn3jg4AAAAJ)
 [![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-kishormorol-yellow?style=flat)](https://huggingface.co/kishormorol)
 [![X](https://img.shields.io/badge/X-@kishormorol-black?style=flat&logo=x)](https://x.com/kishormorol)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kishormorol-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kishormorol)
