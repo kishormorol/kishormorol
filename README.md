@@ -46,6 +46,24 @@ I build open tools for researchers and AI practitioners, and I study how languag
 
 ---
 
+### 📈 GitHub stats
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+  <img alt="GitHub stats: contributions, commits, pull requests, issues, repos contributed to, stars, followers and streaks" src="assets/stats-light.svg">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/langs-dark.svg">
+  <img alt="Top languages across public repositories" src="assets/langs-light.svg">
+</picture>
+
+<sub>Refreshed daily by a GitHub Action. Languages leave out HTML, CSS, notebooks and TeX.</sub>
+
+![Profile views](https://komarev.com/ghpvc/?username=kishormorol&label=Profile%20views&color=0969da&style=flat)
+
+---
+
 ### 🤝 Get in touch
 
 Open to research collaborations and contributors on any of the projects above. Issues and PRs are welcome.
