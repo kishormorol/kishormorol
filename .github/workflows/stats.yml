@@ -18,7 +18,9 @@ jobs:
           python-version: "3.12"
       - run: python scripts/stats.py
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # STATS_TOKEN is a read-only token that can see private contributions.
+          # Without it, commits and pull requests count public repos only.
+          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
       - name: Commit if changed
         run: |
           git add assets
