@@ -127,8 +127,8 @@ def streaks(days):
 def stats_svg(s, t):
     cells = [
         ("Total contributions", f"{s['contributions']:,}"),
-        ("Commits", f"{s['commits']:,}"),
-        ("Pull requests", f"{s['prs']:,}"),
+        ("Public commits", f"{s['commits']:,}"),
+        ("Public pull requests", f"{s['prs']:,}"),
         ("Issues", f"{s['issues']:,}"),
         ("Contributed to", f"{s['contributed']:,} repos"),
         ("Stars earned", f"{s['stars']:,}"),
