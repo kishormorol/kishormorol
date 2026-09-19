@@ -4,17 +4,17 @@
   <clipPath id="bar"><rect x="25" y="62" width="750" height="10" rx="5"/></clipPath>
   <rect x="25" y="62" width="750" height="10" rx="5" fill="#eff2f5"/>
   <g clip-path="url(#bar)">
-  <rect x="25.00" y="62" width="542.56" height="10" fill="#3572A5"/>
-  <rect x="567.56" y="62" width="109.26" height="10" fill="#f1e05a"/>
-  <rect x="676.83" y="62" width="79.86" height="10" fill="#3178c6"/>
-  <rect x="756.69" y="62" width="16.45" height="10" fill="#ff5a03"/>
+  <rect x="25.00" y="62" width="542.84" height="10" fill="#3572A5"/>
+  <rect x="567.84" y="62" width="109.12" height="10" fill="#f1e05a"/>
+  <rect x="676.96" y="62" width="79.76" height="10" fill="#3178c6"/>
+  <rect x="756.71" y="62" width="16.43" height="10" fill="#ff5a03"/>
   <rect x="773.14" y="62" width="1.12" height="10" fill="#89e051"/>
   <rect x="774.26" y="62" width="0.74" height="10" fill="#336790"/>
   </g>
   <circle cx="30" cy="100" r="5" fill="#3572A5"/>
-  <text x="41" y="104" font-size="13" fill="#1f2328">Python <tspan fill="#59636e">72.3%</tspan></text>
+  <text x="41" y="104" font-size="13" fill="#1f2328">Python <tspan fill="#59636e">72.4%</tspan></text>
   <circle cx="280" cy="100" r="5" fill="#f1e05a"/>
-  <text x="291" y="104" font-size="13" fill="#1f2328">JavaScript <tspan fill="#59636e">14.6%</tspan></text>
+  <text x="291" y="104" font-size="13" fill="#1f2328">JavaScript <tspan fill="#59636e">14.5%</tspan></text>
   <circle cx="530" cy="100" r="5" fill="#3178c6"/>
   <text x="541" y="104" font-size="13" fill="#1f2328">TypeScript <tspan fill="#59636e">10.6%</tspan></text>
   <circle cx="30" cy="126" r="5" fill="#ff5a03"/>
