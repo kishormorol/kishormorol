@@ -4,11 +4,11 @@
   <clipPath id="bar"><rect x="25" y="62" width="750" height="10" rx="5"/></clipPath>
   <rect x="25" y="62" width="750" height="10" rx="5" fill="#eff2f5"/>
   <g clip-path="url(#bar)">
-  <rect x="25.00" y="62" width="542.84" height="10" fill="#3572A5"/>
-  <rect x="567.84" y="62" width="109.12" height="10" fill="#f1e05a"/>
-  <rect x="676.96" y="62" width="79.76" height="10" fill="#3178c6"/>
-  <rect x="756.71" y="62" width="16.43" height="10" fill="#ff5a03"/>
-  <rect x="773.14" y="62" width="1.12" height="10" fill="#89e051"/>
+  <rect x="25.00" y="62" width="543.05" height="10" fill="#3572A5"/>
+  <rect x="568.05" y="62" width="109.01" height="10" fill="#f1e05a"/>
+  <rect x="677.06" y="62" width="79.67" height="10" fill="#3178c6"/>
+  <rect x="756.73" y="62" width="16.41" height="10" fill="#ff5a03"/>
+  <rect x="773.14" y="62" width="1.11" height="10" fill="#89e051"/>
   <rect x="774.26" y="62" width="0.74" height="10" fill="#336790"/>
   </g>
   <circle cx="30" cy="100" r="5" fill="#3572A5"/>
