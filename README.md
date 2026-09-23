@@ -16,11 +16,13 @@ I build open tools for researchers and AI practitioners, and I study how languag
 | [**ResearchScope**](https://github.com/kishormorol/ResearchScope) · [live](https://kishormorol.github.io/ResearchScope/) | Open research intelligence for CS papers: what matters, who drives it, what to read first, where the gaps are. Data on 🤗 [researchscope-papers](https://huggingface.co/datasets/kishormorol/researchscope-papers). |
 | [**CiteLens**](https://github.com/kishormorol/CiteLens) · [live](https://kishormorol.github.io/CiteLens/) | Finds the citing papers that matter most, ranked by impact, relevance and influence. |
 | [**BanglaNLP Hub**](https://github.com/kishormorol/BanglaNLP-Hub) · [live](https://kishormorol.github.io/BanglaNLP-Hub/) | Community catalog of Bangla NLP papers, datasets, models, tools and benchmarks. |
+| [**GradTracker**](https://github.com/kishormorol/gradtracker) · [live](https://gradtracker-nu.vercel.app) | Community tracker for Fall 2027 PhD/MS applicants in the US and Canada: professors recruiting students and fee-waiver webinars. |
 
 **For people who work with AI agents**
 
 | Project | What it does |
 |---|---|
+| [**cli-faq-shortcuts**](https://github.com/kishormorol/cli-faq-shortcuts) | An Agent Skill that turns the asks you keep typing into short commands, mined from your own Claude Code and Codex history. Works in Claude Code, Codex and Cursor. |
 | [**nightaudit**](https://github.com/kishormorol/nightaudit) | Your AI works the night shift: read-only reviews of your projects, one digest every morning. |
 | [**Agent Command Atlas**](https://github.com/kishormorol/agent-command-atlas) · [live](https://kishormorol.github.io/agent-command-atlas/) | Searchable, source-linked atlas of commands, flags and shortcuts across Claude Code, Codex, Gemini CLI, Cursor, Copilot CLI and Muse Code. |
 | [**SkillsAllYouNeed**](https://github.com/kishormorol/SkillsAllYouNeed) · [live](https://kishormorol.github.io/SkillsAllYouNeed/) | Directory of every first-party skill and tool across 13 AI ecosystems, including Claude, ChatGPT, Gemini, Codex, Cursor and Copilot. |
@@ -33,6 +35,7 @@ I build open tools for researchers and AI practitioners, and I study how languag
 |---|---|
 | [**agent-repair**](https://github.com/kishormorol/agent-repair) | When a multi-step LLM agent fails, where should recovery begin: repair the trajectory or restart? |
 | [**alexa-language-bridge**](https://github.com/kishormorol/alexa-language-bridge) | An Alexa+ MCP add-on that lets a household member who doesn't speak English use the home in their own language and script. |
+| [**bangla-multimodal-political-stance**](https://github.com/kishormorol/bangla-multimodal-political-stance) | Can the headline and the photo together tell which way a Bangla news story leans toward the government? |
 | [**banglachhanda**](https://github.com/kishormorol/banglachhanda) | Can Bangla meter (chhanda) be scanned by rule? An annotation guideline, a scanner baseline and a pilot corpus. |
 
 ---
