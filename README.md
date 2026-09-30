@@ -63,6 +63,8 @@ Also on 🤗 Spaces: [ResearchScope](https://huggingface.co/spaces/kishormorol/R
 
 ## GitHub Activity
 
+![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=kishormorol&hide_border=true)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
   <img alt="GitHub stats" src="assets/stats-light.svg">
