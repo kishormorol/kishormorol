@@ -1,83 +1,114 @@
 # Hi, I'm Kishor 👋
 
-I build open tools for researchers and AI practitioners, and I study how language models and agents behave when the stakes are real.
+📍 **New York** | 🔬 **AI Safety & Agents Researcher** | 🛠️ **Open-Source Builder**
 
-**Research focus:** AI safety · LLM agents · NLP for low-resource languages (Bangla) · explainable AI · AI for science<br>
-**Track record:** 80+ publications · 900+ citations · h-index 14
+I build open tools for researchers and study how language models behave when the stakes are real.
 
----
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![NLP](https://img.shields.io/badge/-NLP-8B5CF6?style=flat-square)
+![AI Safety](https://img.shields.io/badge/-AI_Safety-DC2626?style=flat-square)
 
-### 🔭 What I'm building
+## Start Here
 
-**Research tools**
+- 🔭 **[ResearchScope](https://kishormorol.github.io/ResearchScope/)** (110+ ⭐) — open research intelligence for CS papers: what matters, who drives it, what to read first
+- ⚡ **[cli-faq-shortcuts](https://github.com/kishormorol/cli-faq-shortcuts)** (116+ ⭐) — turn repeated prompts into slash commands, mined from your own Claude Code history
+- 🌙 **[nightaudit](https://github.com/kishormorol/nightaudit)** (30+ ⭐) — your AI works the night shift: read-only reviews, one digest every morning
+- 🧭 **[Agent Command Atlas](https://kishormorol.github.io/agent-command-atlas/)** (24+ ⭐) — searchable atlas of commands across 6 AI coding agents
+- 🎯 **[SkillsAllYouNeed](https://kishormorol.github.io/SkillsAllYouNeed/)** (25+ ⭐) — directory of every first-party skill across 13 AI ecosystems
 
-| Project | What it does |
-|---|---|
-| [**ResearchScope**](https://github.com/kishormorol/ResearchScope) · [live](https://kishormorol.github.io/ResearchScope/) | Open research intelligence for CS papers: what matters, who drives it, what to read first, where the gaps are. Data on 🤗 [researchscope-papers](https://huggingface.co/datasets/kishormorol/researchscope-papers). |
-| [**CiteLens**](https://github.com/kishormorol/CiteLens) · [live](https://kishormorol.github.io/CiteLens/) | Finds the citing papers that matter most, ranked by impact, relevance and influence. |
-| [**BanglaNLP Hub**](https://github.com/kishormorol/BanglaNLP-Hub) · [live](https://kishormorol.github.io/BanglaNLP-Hub/) | Community catalog of Bangla NLP papers, datasets, models, tools and benchmarks. |
-| [**GradTracker**](https://github.com/kishormorol/gradtracker) · [live](https://gradtracker-nu.vercel.app) | Community tracker for Fall 2027 PhD/MS applicants in the US and Canada: professors recruiting students and fee-waiver webinars. |
+## Current Projects
 
-**For people who work with AI agents**
+### Research Tools & Platforms
 
-| Project | What it does |
-|---|---|
-| [**cli-faq-shortcuts**](https://github.com/kishormorol/cli-faq-shortcuts) | An Agent Skill that turns the asks you keep typing into short commands, mined from your own Claude Code and Codex history. Works in Claude Code, Codex and Cursor. |
-| [**nightaudit**](https://github.com/kishormorol/nightaudit) | Your AI works the night shift: read-only reviews of your projects, one digest every morning. |
-| [**Agent Command Atlas**](https://github.com/kishormorol/agent-command-atlas) · [live](https://kishormorol.github.io/agent-command-atlas/) | Searchable, source-linked atlas of commands, flags and shortcuts across Claude Code, Codex, Gemini CLI, Cursor, Copilot CLI and Muse Code. |
-| [**SkillsAllYouNeed**](https://github.com/kishormorol/SkillsAllYouNeed) · [live](https://kishormorol.github.io/SkillsAllYouNeed/) | Directory of every first-party skill and tool across 13 AI ecosystems, including Claude, ChatGPT, Gemini, Codex, Cursor and Copilot. |
-| [**promptlean**](https://github.com/kishormorol/promptlean) · [live](https://kishormorol.github.io/promptlean/) | Token-efficient prompt library, each prompt in Lean, Balanced and Max Quality variants. |
-| [**blast-radius**](https://github.com/kishormorol/blast-radius) | An Agent Skill for the moment before a bulk write: classify every affected row before touching any of them. |
+- 🔭 **[ResearchScope](https://kishormorol.github.io/ResearchScope/)** — open research intelligence for CS papers, with data on 🤗 [researchscope-papers](https://huggingface.co/datasets/kishormorol/researchscope-papers)
+- 🔍 **[CiteLens](https://kishormorol.github.io/CiteLens/)** — finds the citing papers that matter most, ranked by impact and influence
+- 🇧🇩 **[BanglaNLP Hub](https://kishormorol.github.io/BanglaNLP-Hub/)** — community catalog of Bangla NLP papers, datasets, models and benchmarks
+- 🎓 **[GradTracker](https://gradtracker-nu.vercel.app)** — community tracker for Fall 2027 PhD/MS applicants: professor openings and fee-waiver webinars
 
-**Research code**
+### AI Agent Tools & Skills
 
-| Project | Question |
-|---|---|
-| [**agent-repair**](https://github.com/kishormorol/agent-repair) | When a multi-step LLM agent fails, where should recovery begin: repair the trajectory or restart? |
-| [**alexa-language-bridge**](https://github.com/kishormorol/alexa-language-bridge) | An Alexa+ MCP add-on that lets a household member who doesn't speak English use the home in their own language and script. |
-| [**bangla-multimodal-political-stance**](https://github.com/kishormorol/bangla-multimodal-political-stance) | Can the headline and the photo together tell which way a Bangla news story leans toward the government? |
-| [**banglachhanda**](https://github.com/kishormorol/banglachhanda) | Can Bangla meter (chhanda) be scanned by rule? An annotation guideline, a scanner baseline and a pilot corpus. |
+- ⚡ **[cli-faq-shortcuts](https://github.com/kishormorol/cli-faq-shortcuts)** — turn repeated Claude Code, Codex and Cursor prompts into reusable slash commands
+- 🌙 **[nightaudit](https://github.com/kishormorol/nightaudit)** — read-only reviews of your projects while you sleep, one digest every morning
+- 🧭 **[Agent Command Atlas](https://kishormorol.github.io/agent-command-atlas/)** — searchable atlas of commands, flags and shortcuts across Claude Code, Codex, Gemini CLI, Cursor, Copilot CLI and Muse Code
+- 🎯 **[SkillsAllYouNeed](https://kishormorol.github.io/SkillsAllYouNeed/)** — every first-party skill and tool across 13 AI ecosystems
+- 📐 **[promptlean](https://kishormorol.github.io/promptlean/)** — token-efficient prompt library: 120 prompts, 3 variants each (Lean / Balanced / Max Quality)
+- 💥 **[blast-radius](https://github.com/kishormorol/blast-radius)** — agent skill: classify every affected row before a bulk write touches any of them
+- 🔁 **[promptalias](https://kishormorol.github.io/promptalias/)** — reusable prompts as Agent Skills for Claude Code, Codex and Cursor
+- 🧰 **[ECC](https://ecc.tools)** — agent harness performance optimization: skills, instincts, memory and security
 
----
+### Research Code
 
-### 📊 Open data on Hugging Face
+- 🔧 **[agent-repair](https://github.com/kishormorol/agent-repair)** — when a multi-step LLM agent fails, where should recovery begin: repair or restart?
+- 🗣️ **[alexa-language-bridge](https://github.com/kishormorol/alexa-language-bridge)** — Alexa+ MCP add-on for non-English household members
+- 📰 **[bangla-multimodal-political-stance](https://github.com/kishormorol/bangla-multimodal-political-stance)** — can the headline + photo predict Bangla news political leaning?
+- 📜 **[banglachhanda](https://github.com/kishormorol/banglachhanda)** — rule-based Bangla meter (chhanda) scanning: guidelines, baseline, pilot corpus
+- 🧠 **[adaptive-ai-scaffold](https://github.com/kishormorol/adaptive-ai-scaffold)** — AI writing tools that scaffold student reasoning instead of answering for them
 
-| Dataset | Rows | License |
+## Open Data on Hugging Face
+
+| Dataset | What's inside | License |
 |---|---|---|
 | [**researchscope-papers**](https://huggingface.co/datasets/kishormorol/researchscope-papers) | 100,000+ CS papers, scored and sectioned | CC BY 4.0 |
-| [**bangla-nlp-catalog**](https://huggingface.co/datasets/kishormorol/bangla-nlp-catalog) | 712 papers, 63 datasets, 20 models, 9 tools for Bangla NLP | MIT |
+| [**bangla-nlp-catalog**](https://huggingface.co/datasets/kishormorol/bangla-nlp-catalog) | 712 papers, 63 datasets, 20 models, 9 tools | MIT |
 | [**llm-skills-registry**](https://huggingface.co/datasets/kishormorol/llm-skills-registry) | 226 first-party AI skills across 13 ecosystems | CC BY 4.0 |
 | [**promptlean-prompts**](https://huggingface.co/datasets/kishormorol/promptlean-prompts) | 120 prompts × 3 token-efficiency variants | MIT |
-| [**banglachhanda**](https://huggingface.co/datasets/kishormorol/banglachhanda) | 153 Bangla poems (7,009 lines) plus a 316-line scansion pilot, not yet gold | CC BY-SA 4.0 |
+| [**banglachhanda**](https://huggingface.co/datasets/kishormorol/banglachhanda) | 153 Bangla poems (7,009 lines), scansion pilot | CC BY-SA 4.0 |
 
-The web tools above also run as 🤗 Spaces: [ResearchScope](https://huggingface.co/spaces/kishormorol/ResearchScope) · [CiteLens](https://huggingface.co/spaces/kishormorol/CiteLens) · [BanglaNLP Hub](https://huggingface.co/spaces/kishormorol/BanglaNLP-Hub) · [Agent Command Atlas](https://huggingface.co/spaces/kishormorol/agent-command-atlas) · [SkillsAllYouNeed](https://huggingface.co/spaces/kishormorol/SkillsAllYouNeed) · [promptlean](https://huggingface.co/spaces/kishormorol/promptlean)
+Also on 🤗 Spaces: [ResearchScope](https://huggingface.co/spaces/kishormorol/ResearchScope) · [CiteLens](https://huggingface.co/spaces/kishormorol/CiteLens) · [BanglaNLP Hub](https://huggingface.co/spaces/kishormorol/BanglaNLP-Hub) · [Agent Command Atlas](https://huggingface.co/spaces/kishormorol/agent-command-atlas) · [SkillsAllYouNeed](https://huggingface.co/spaces/kishormorol/SkillsAllYouNeed) · [promptlean](https://huggingface.co/spaces/kishormorol/promptlean)
 
----
-
-### 📈 GitHub stats
+## GitHub Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-  <img alt="GitHub stats: contributions, commits, pull requests, issues, repos contributed to, stars, followers and streaks" src="assets/stats-light.svg">
+  <img alt="GitHub stats" src="assets/stats-light.svg">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/langs-dark.svg">
-  <img alt="Top languages across public repositories" src="assets/langs-light.svg">
+  <img alt="Top languages" src="assets/langs-light.svg">
 </picture>
 
-<sub>Refreshed daily by a GitHub Action. Languages leave out HTML, CSS, notebooks and TeX.</sub>
+<sub>Refreshed daily by a GitHub Action. Languages exclude HTML, CSS, notebooks and TeX.</sub>
 
-![Profile views](https://komarev.com/ghpvc/?username=kishormorol&label=Profile%20views&color=0969da&style=flat)
+## What I'm Doing
+
+- **Researching AI safety** — how LLM agents fail, recover, and misbehave in multi-step settings
+- **Building open research infra** — tools that help researchers find what matters without a paywall
+- **Bridging Bangla NLP** — datasets, benchmarks and tools for a language with 300M+ speakers and limited resources
+- **Teaching agents to be useful** — skills, commands and workflows that make AI coding agents practical
+
+## Recognition
+
+- **80+ publications** · **900+ citations** · **h-index 14** on [Google Scholar](https://scholar.google.com/citations?user=pjn3jg4AAAAJ)
+- Open datasets powering research on [Hugging Face](https://huggingface.co/kishormorol)
+- Tools used across Claude Code, Codex, Cursor and Gemini CLI ecosystems
+
+## Connect
+
+[![Google Scholar](https://img.shields.io/badge/-Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=pjn3jg4AAAAJ)
+[![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/kishormorol)
+[![X](https://img.shields.io/badge/-@kishormorol-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/kishormorol)
+[![LinkedIn](https://img.shields.io/badge/-Kishor_Morol-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishormorol)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kishoremorol@gmail.com)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kishormorol)
 
 ---
 
-### 🤝 Get in touch
+> "Build the tool you wish existed, then give it away." — I make open research and agent tools because the best work happens when everyone has access.
 
-Open to research collaborations and contributors on any of the projects above. Issues and PRs are welcome.
+<details>
+<summary>Random Facts</summary>
 
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-900%2B_citations-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=pjn3jg4AAAAJ)
-[![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-kishormorol-yellow?style=flat)](https://huggingface.co/kishormorol)
-[![X](https://img.shields.io/badge/X-@kishormorol-black?style=flat&logo=x)](https://x.com/kishormorol)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kishormorol-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kishormorol)
-[![Email](https://img.shields.io/badge/Email-kishoremorol@gmail.com-red?style=flat&logo=gmail)](mailto:kishoremorol@gmail.com)
+- 80+ papers and still shipping code
+- Run multiple Claude instances concurrently (it's a lifestyle)
+- Bangla is my first language — building NLP for it is personal
+- Powered by late-night coding sessions and strong coffee
+
+</details>
+
+![Profile views](https://komarev.com/ghpvc/?username=kishormorol&label=Profile%20views&color=0969da&style=flat)
