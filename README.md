@@ -16,7 +16,7 @@ I build open tools for researchers and study how language models behave when the
 ## Start Here
 
 - 🔭 **[ResearchScope](https://kishormorol.github.io/ResearchScope/)** (110+ ⭐) — open research intelligence for CS papers: what matters, who drives it, what to read first
-- ⚡ **[cli-faq-shortcuts](https://github.com/kishormorol/cli-faq-shortcuts)** (116+ ⭐) — turn repeated prompts into slash commands, mined from your own Claude Code history
+- ⚡ **[cli-faq-shortcuts](https://github.com/kishormorol/cli-faq-shortcuts)** (129+ ⭐) — turn repeated prompts into slash commands, mined from your own Claude Code history
 - 🌙 **[nightaudit](https://github.com/kishormorol/nightaudit)** (30+ ⭐) — your AI works the night shift: read-only reviews, one digest every morning
 - 🧭 **[Agent Command Atlas](https://kishormorol.github.io/agent-command-atlas/)** (24+ ⭐) — searchable atlas of commands across 6 AI coding agents
 - 🎯 **[SkillsAllYouNeed](https://kishormorol.github.io/SkillsAllYouNeed/)** (25+ ⭐) — directory of every first-party skill across 13 AI ecosystems
@@ -43,7 +43,6 @@ I build open tools for researchers and study how language models behave when the
 
 ### Research Code
 
-- 🔧 **[agent-repair](https://github.com/kishormorol/agent-repair)** — when a multi-step LLM agent fails, where should recovery begin: repair or restart?
 - 🗣️ **[alexa-language-bridge](https://github.com/kishormorol/alexa-language-bridge)** — Alexa+ MCP add-on for non-English household members
 - 📰 **[bangla-multimodal-political-stance](https://github.com/kishormorol/bangla-multimodal-political-stance)** — can the headline + photo predict Bangla news political leaning?
 - 📜 **[banglachhanda](https://github.com/kishormorol/banglachhanda)** — rule-based Bangla meter (chhanda) scanning: guidelines, baseline, pilot corpus
@@ -53,11 +52,12 @@ I build open tools for researchers and study how language models behave when the
 
 | Dataset | What's inside | License |
 |---|---|---|
-| [**researchscope-papers**](https://huggingface.co/datasets/kishormorol/researchscope-papers) | 100,000+ CS papers, scored and sectioned | CC BY 4.0 |
-| [**bangla-nlp-catalog**](https://huggingface.co/datasets/kishormorol/bangla-nlp-catalog) | 712 papers, 63 datasets, 20 models, 9 tools | MIT |
+| [**researchscope-papers**](https://huggingface.co/datasets/kishormorol/researchscope-papers) | 68,000+ CS papers, scored and sectioned | CC BY 4.0 |
+| [**bangla-nlp-catalog**](https://huggingface.co/datasets/kishormorol/bangla-nlp-catalog) | 813 papers, 63 datasets, 20 models, 9 tools | MIT |
 | [**llm-skills-registry**](https://huggingface.co/datasets/kishormorol/llm-skills-registry) | 226 first-party AI skills across 13 ecosystems | CC BY 4.0 |
 | [**promptlean-prompts**](https://huggingface.co/datasets/kishormorol/promptlean-prompts) | 120 prompts × 3 token-efficiency variants | MIT |
 | [**banglachhanda**](https://huggingface.co/datasets/kishormorol/banglachhanda) | 153 Bangla poems (7,009 lines), scansion pilot | CC BY-SA 4.0 |
+| [**BanglaPoliticalStance**](https://huggingface.co/datasets/kishormorol/BanglaPoliticalStance) | 14,719 Bangla news headlines + photos from 392 outlets, political stance | CC BY-NC 4.0 |
 
 Also on 🤗 Spaces: [ResearchScope](https://huggingface.co/spaces/kishormorol/ResearchScope) · [CiteLens](https://huggingface.co/spaces/kishormorol/CiteLens) · [BanglaNLP Hub](https://huggingface.co/spaces/kishormorol/BanglaNLP-Hub) · [Agent Command Atlas](https://huggingface.co/spaces/kishormorol/agent-command-atlas) · [SkillsAllYouNeed](https://huggingface.co/spaces/kishormorol/SkillsAllYouNeed) · [promptlean](https://huggingface.co/spaces/kishormorol/promptlean)
 
@@ -86,12 +86,13 @@ Also on 🤗 Spaces: [ResearchScope](https://huggingface.co/spaces/kishormorol/R
 
 ## Recognition
 
-- **80+ publications** · **900+ citations** · **h-index 14** on [Google Scholar](https://scholar.google.com/citations?user=pjn3jg4AAAAJ)
+- **90+ publications** · **940+ citations** · **h-index 14** on [Google Scholar](https://scholar.google.com/citations?user=pjn3jg4AAAAJ)
 - Open datasets powering research on [Hugging Face](https://huggingface.co/kishormorol)
 - Tools used across Claude Code, Codex, Cursor and Gemini CLI ecosystems
 
 ## Connect
 
+[![Website](https://img.shields.io/badge/-kishormorol.github.io-0969DA?style=flat-square&logo=googlechrome&logoColor=white)](https://kishormorol.github.io)
 [![Google Scholar](https://img.shields.io/badge/-Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=pjn3jg4AAAAJ)
 [![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/kishormorol)
 [![X](https://img.shields.io/badge/-@kishormorol-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/kishormorol)
@@ -106,7 +107,7 @@ Also on 🤗 Spaces: [ResearchScope](https://huggingface.co/spaces/kishormorol/R
 <details>
 <summary>Random Facts</summary>
 
-- 80+ papers and still shipping code
+- 90+ papers and still shipping code
 - Run multiple Claude instances concurrently (it's a lifestyle)
 - Bangla is my first language — building NLP for it is personal
 - Powered by late-night coding sessions and strong coffee
