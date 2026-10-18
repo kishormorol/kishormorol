@@ -16,7 +16,7 @@ I build open tools for researchers and study how language models behave when the
 ## Start Here
 
 - 🔭 **[ResearchScope](https://kishormorol.github.io/ResearchScope/)** (110+ ⭐) — open research intelligence for CS papers: what matters, who drives it, what to read first
-- ⚡ **[cli-faq-shortcuts](https://github.com/kishormorol/cli-faq-shortcuts)** (129+ ⭐) — turn repeated prompts into slash commands, mined from your own Claude Code history
+- ⚡ **[cli-faq-shortcuts](https://github.com/kishormorol/cli-faq-shortcuts)** (130+ ⭐) — turn repeated prompts into slash commands, mined from your own Claude Code history
 - 🌙 **[nightaudit](https://github.com/kishormorol/nightaudit)** (30+ ⭐) — your AI works the night shift: read-only reviews, one digest every morning
 - 🧭 **[Agent Command Atlas](https://kishormorol.github.io/agent-command-atlas/)** (24+ ⭐) — searchable atlas of commands across 6 AI coding agents
 - 🎯 **[SkillsAllYouNeed](https://kishormorol.github.io/SkillsAllYouNeed/)** (25+ ⭐) — directory of every first-party skill across 13 AI ecosystems
@@ -28,6 +28,7 @@ I build open tools for researchers and study how language models behave when the
 - 🔭 **[ResearchScope](https://kishormorol.github.io/ResearchScope/)** — open research intelligence for CS papers, with data on 🤗 [researchscope-papers](https://huggingface.co/datasets/kishormorol/researchscope-papers)
 - 🔍 **[CiteLens](https://kishormorol.github.io/CiteLens/)** — finds the citing papers that matter most, ranked by impact and influence
 - 🇧🇩 **[BanglaNLP Hub](https://kishormorol.github.io/BanglaNLP-Hub/)** — community catalog of Bangla NLP papers, datasets, models and benchmarks
+- 🧠 **[thinkdiff](https://thinkdiff.vercel.app)** — compare LLM reasoning traces side by side: how Claude, DeepSeek and GPT think through the same problem
 - 🎓 **[GradTracker](https://gradtracker-nu.vercel.app)** — community tracker for Fall 2027 PhD/MS applicants: professor openings and fee-waiver webinars
 
 ### AI Agent Tools & Skills
@@ -36,6 +37,7 @@ I build open tools for researchers and study how language models behave when the
 - 🌙 **[nightaudit](https://github.com/kishormorol/nightaudit)** — read-only reviews of your projects while you sleep, one digest every morning
 - 🧭 **[Agent Command Atlas](https://kishormorol.github.io/agent-command-atlas/)** — searchable atlas of commands, flags and shortcuts across Claude Code, Codex, Gemini CLI, Cursor, Copilot CLI and Muse Code
 - 🎯 **[SkillsAllYouNeed](https://kishormorol.github.io/SkillsAllYouNeed/)** — every first-party skill and tool across 13 AI ecosystems
+- 🔬 **[VibeScope](https://vibescope-one.vercel.app)** — see how your code was built: an explorable map of the technologies, architecture and decisions in an AI-written codebase
 - 📐 **[promptlean](https://kishormorol.github.io/promptlean/)** — token-efficient prompt library: 120 prompts, 3 variants each (Lean / Balanced / Max Quality)
 - 💥 **[blast-radius](https://github.com/kishormorol/blast-radius)** — agent skill: classify every affected row before a bulk write touches any of them
 - 🔁 **[promptalias](https://kishormorol.github.io/promptalias/)** — reusable prompts as Agent Skills for Claude Code, Codex and Cursor
@@ -52,7 +54,7 @@ I build open tools for researchers and study how language models behave when the
 
 | Dataset | What's inside | License |
 |---|---|---|
-| [**researchscope-papers**](https://huggingface.co/datasets/kishormorol/researchscope-papers) | 68,000+ CS papers, scored and sectioned | CC BY 4.0 |
+| [**researchscope-papers**](https://huggingface.co/datasets/kishormorol/researchscope-papers) | 67,900+ CS papers, scored and sectioned | CC BY 4.0 |
 | [**bangla-nlp-catalog**](https://huggingface.co/datasets/kishormorol/bangla-nlp-catalog) | 813 papers, 63 datasets, 20 models, 9 tools | MIT |
 | [**llm-skills-registry**](https://huggingface.co/datasets/kishormorol/llm-skills-registry) | 226 first-party AI skills across 13 ecosystems | CC BY 4.0 |
 | [**promptlean-prompts**](https://huggingface.co/datasets/kishormorol/promptlean-prompts) | 120 prompts × 3 token-efficiency variants | MIT |
@@ -86,7 +88,7 @@ Also on 🤗 Spaces: [ResearchScope](https://huggingface.co/spaces/kishormorol/R
 
 ## Recognition
 
-- **90+ publications** · **940+ citations** · **h-index 14** on [Google Scholar](https://scholar.google.com/citations?user=pjn3jg4AAAAJ)
+- **90+ publications** · **960+ citations** · **h-index 14** on [Google Scholar](https://scholar.google.com/citations?user=pjn3jg4AAAAJ)
 - Open datasets powering research on [Hugging Face](https://huggingface.co/kishormorol)
 - Tools used across Claude Code, Codex, Cursor and Gemini CLI ecosystems
 
