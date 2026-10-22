@@ -41,7 +41,10 @@ I build open tools for researchers and study how language models behave when the
 - 📐 **[promptlean](https://kishormorol.github.io/promptlean/)** — token-efficient prompt library: 120 prompts, 3 variants each (Lean / Balanced / Max Quality)
 - 💥 **[blast-radius](https://github.com/kishormorol/blast-radius)** — agent skill: classify every affected row before a bulk write touches any of them
 - 🔁 **[promptalias](https://kishormorol.github.io/promptalias/)** — reusable prompts as Agent Skills for Claude Code, Codex and Cursor
-- 🧰 **[ECC](https://ecc.tools)** — agent harness performance optimization: skills, instincts, memory and security
+
+### Contributions
+
+- 🧰 **[ECC](https://github.com/affaan-m/ECC)** — contributor (Bengali support, [#2655](https://github.com/affaan-m/ECC/pull/2655)) to this agent harness for skills, instincts, memory and security
 
 ### Research Code
 
