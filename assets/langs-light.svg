@@ -4,23 +4,23 @@
   <clipPath id="bar"><rect x="25" y="62" width="750" height="10" rx="5"/></clipPath>
   <rect x="25" y="62" width="750" height="10" rx="5" fill="#eff2f5"/>
   <g clip-path="url(#bar)">
-  <rect x="25.00" y="62" width="309.36" height="10" fill="#3572A5"/>
-  <rect x="334.36" y="62" width="294.47" height="10" fill="#3178c6"/>
-  <rect x="628.84" y="62" width="120.42" height="10" fill="#f1e05a"/>
-  <rect x="749.26" y="62" width="18.00" height="10" fill="#ff5a03"/>
-  <rect x="767.26" y="62" width="5.26" height="10" fill="#555555"/>
-  <rect x="772.52" y="62" width="2.48" height="10" fill="#dea584"/>
+  <rect x="25.00" y="62" width="342.26" height="10" fill="#3572A5"/>
+  <rect x="367.26" y="62" width="272.10" height="10" fill="#3178c6"/>
+  <rect x="639.36" y="62" width="111.27" height="10" fill="#f1e05a"/>
+  <rect x="750.63" y="62" width="16.63" height="10" fill="#ff5a03"/>
+  <rect x="767.26" y="62" width="4.86" height="10" fill="#555555"/>
+  <rect x="772.12" y="62" width="2.88" height="10" fill="#89e051"/>
   </g>
   <circle cx="30" cy="100" r="5" fill="#3572A5"/>
-  <text x="41" y="104" font-size="13" fill="#1f2328">Python <tspan fill="#59636e">41.2%</tspan></text>
+  <text x="41" y="104" font-size="13" fill="#1f2328">Python <tspan fill="#59636e">45.6%</tspan></text>
   <circle cx="280" cy="100" r="5" fill="#3178c6"/>
-  <text x="291" y="104" font-size="13" fill="#1f2328">TypeScript <tspan fill="#59636e">39.3%</tspan></text>
+  <text x="291" y="104" font-size="13" fill="#1f2328">TypeScript <tspan fill="#59636e">36.3%</tspan></text>
   <circle cx="530" cy="100" r="5" fill="#f1e05a"/>
-  <text x="541" y="104" font-size="13" fill="#1f2328">JavaScript <tspan fill="#59636e">16.1%</tspan></text>
+  <text x="541" y="104" font-size="13" fill="#1f2328">JavaScript <tspan fill="#59636e">14.8%</tspan></text>
   <circle cx="30" cy="126" r="5" fill="#ff5a03"/>
-  <text x="41" y="130" font-size="13" fill="#1f2328">Astro <tspan fill="#59636e">2.4%</tspan></text>
+  <text x="41" y="130" font-size="13" fill="#1f2328">Astro <tspan fill="#59636e">2.2%</tspan></text>
   <circle cx="280" cy="126" r="5" fill="#555555"/>
-  <text x="291" y="130" font-size="13" fill="#1f2328">C <tspan fill="#59636e">0.7%</tspan></text>
-  <circle cx="530" cy="126" r="5" fill="#dea584"/>
-  <text x="541" y="130" font-size="13" fill="#1f2328">Rust <tspan fill="#59636e">0.3%</tspan></text>
+  <text x="291" y="130" font-size="13" fill="#1f2328">C <tspan fill="#59636e">0.6%</tspan></text>
+  <circle cx="530" cy="126" r="5" fill="#89e051"/>
+  <text x="541" y="130" font-size="13" fill="#1f2328">Shell <tspan fill="#59636e">0.4%</tspan></text>
 </svg>
