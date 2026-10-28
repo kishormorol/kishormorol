@@ -18,7 +18,7 @@ I build open tools for researchers and study how language models behave when the
 - 🔭 **[ResearchScope](https://kishormorol.github.io/ResearchScope/)** (110+ ⭐) — open research intelligence for CS papers: what matters, who drives it, what to read first
 - ⚡ **[cli-faq-shortcuts](https://github.com/kishormorol/cli-faq-shortcuts)** (130+ ⭐) — turn repeated prompts into slash commands, mined from your own Claude Code history
 - 🌙 **[nightaudit](https://github.com/kishormorol/nightaudit)** (30+ ⭐) — your AI works the night shift: read-only reviews, one digest every morning
-- 🧭 **[Agent Command Atlas](https://kishormorol.github.io/agent-command-atlas/)** (24+ ⭐) — searchable atlas of commands across 6 AI coding agents
+- 🧭 **[Agent Command Atlas](https://kishormorol.github.io/agent-command-atlas/)** (20+ ⭐) — searchable atlas of commands across 6 AI coding agents
 - 🎯 **[SkillsAllYouNeed](https://kishormorol.github.io/SkillsAllYouNeed/)** (25+ ⭐) — directory of every first-party skill across 13 AI ecosystems
 
 ## Current Projects
@@ -37,6 +37,7 @@ I build open tools for researchers and study how language models behave when the
 - 🌙 **[nightaudit](https://github.com/kishormorol/nightaudit)** — read-only reviews of your projects while you sleep, one digest every morning
 - 🧭 **[Agent Command Atlas](https://kishormorol.github.io/agent-command-atlas/)** — searchable atlas of commands, flags and shortcuts across Claude Code, Codex, Gemini CLI, Cursor, Copilot CLI and Muse Code
 - 🎯 **[SkillsAllYouNeed](https://kishormorol.github.io/SkillsAllYouNeed/)** — every first-party skill and tool across 13 AI ecosystems
+- 🛠️ **[Karigor](https://karigor-ten.vercel.app)** — a team of AI agents that takes a plain-language idea to deployed, maintained software, with a zero-cost path at every step
 - 🔬 **[VibeScope](https://vibescope-one.vercel.app)** — see how your code was built: an explorable map of the technologies, architecture and decisions in an AI-written codebase
 - 📐 **[promptlean](https://kishormorol.github.io/promptlean/)** — token-efficient prompt library: 120 prompts, 3 variants each (Lean / Balanced / Max Quality)
 - 💥 **[blast-radius](https://github.com/kishormorol/blast-radius)** — agent skill: classify every affected row before a bulk write touches any of them
@@ -45,10 +46,13 @@ I build open tools for researchers and study how language models behave when the
 ### Contributions
 
 - 🧰 **[ECC](https://github.com/affaan-m/ECC)** — contributor (Bengali support, [#2655](https://github.com/affaan-m/ECC/pull/2655)) to this agent harness for skills, instincts, memory and security
+- 🔌 **[MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk)** — v1.x backport of explicit `| undefined` on Transport optional properties ([#2814](https://github.com/modelcontextprotocol/typescript-sdk/pull/2814))
+- 🇧🇩 **[laya](https://github.com/NandhaKishorM/laya)** — routes romanized Bangla to the multilingual checkpoint ([#187](https://github.com/NandhaKishorM/laya/pull/187))
 
 ### Research Code
 
 - 🗣️ **[alexa-language-bridge](https://github.com/kishormorol/alexa-language-bridge)** — Alexa+ MCP add-on for non-English household members
+- 🐾 **[PetLongevity-Bench](https://github.com/kishormorol/petlongevity-bench)** — benchmark for evidence-grounded AI reasoning on dog and cat healthy-aging research ([Kaggle dataset](https://www.kaggle.com/datasets/kishormorol/petlongevity-bench))
 - 📰 **[bangla-multimodal-political-stance](https://github.com/kishormorol/bangla-multimodal-political-stance)** — can the headline + photo predict Bangla news political leaning?
 - 📜 **[banglachhanda](https://github.com/kishormorol/banglachhanda)** — rule-based Bangla meter (chhanda) scanning: guidelines, baseline, pilot corpus
 - 🧠 **[adaptive-ai-scaffold](https://github.com/kishormorol/adaptive-ai-scaffold)** — AI writing tools that scaffold student reasoning instead of answering for them
@@ -91,7 +95,7 @@ Also on 🤗 Spaces: [ResearchScope](https://huggingface.co/spaces/kishormorol/R
 
 ## Recognition
 
-- **90+ publications** · **960+ citations** · **h-index 14** on [Google Scholar](https://scholar.google.com/citations?user=pjn3jg4AAAAJ)
+- **91+ publications** · **980+ citations** · **h-index 14** on [Google Scholar](https://scholar.google.com/citations?user=pjn3jg4AAAAJ)
 - Open datasets powering research on [Hugging Face](https://huggingface.co/kishormorol)
 - Tools used across Claude Code, Codex, Cursor and Gemini CLI ecosystems
 
