@@ -31,6 +31,10 @@ I build open tools for researchers and study how language models behave when the
 - 🧠 **[thinkdiff](https://thinkdiff.vercel.app)** — compare LLM reasoning traces side by side: how Claude, DeepSeek and GPT think through the same problem
 - 🎓 **[GradTracker](https://gradtracker-nu.vercel.app)** — community tracker for Fall 2027 PhD/MS applicants: professor openings and fee-waiver webinars
 
+### Audio & Music
+
+- 🎼 **[Song2Sheet](https://github.com/kishormorol/song2sheet)** — any song → readable sheet music, MIDI and playable guitar tab, on open models ([try it on 🤗](https://huggingface.co/spaces/kishormorol/song2sheet))
+
 ### AI Agent Tools & Skills
 
 - ⚡ **[cli-faq-shortcuts](https://github.com/kishormorol/cli-faq-shortcuts)** — turn repeated Claude Code, Codex and Cursor prompts into reusable slash commands
@@ -68,7 +72,7 @@ I build open tools for researchers and study how language models behave when the
 | [**banglachhanda**](https://huggingface.co/datasets/kishormorol/banglachhanda) | 153 Bangla poems (7,009 lines), scansion pilot | CC BY-SA 4.0 |
 | [**BanglaPoliticalStance**](https://huggingface.co/datasets/kishormorol/BanglaPoliticalStance) | 14,719 Bangla news headlines + photos from 392 outlets, political stance | CC BY-NC 4.0 |
 
-Also on 🤗 Spaces: [ResearchScope](https://huggingface.co/spaces/kishormorol/ResearchScope) · [CiteLens](https://huggingface.co/spaces/kishormorol/CiteLens) · [BanglaNLP Hub](https://huggingface.co/spaces/kishormorol/BanglaNLP-Hub) · [Agent Command Atlas](https://huggingface.co/spaces/kishormorol/agent-command-atlas) · [SkillsAllYouNeed](https://huggingface.co/spaces/kishormorol/SkillsAllYouNeed) · [promptlean](https://huggingface.co/spaces/kishormorol/promptlean)
+Also on 🤗 Spaces: [Song2Sheet](https://huggingface.co/spaces/kishormorol/song2sheet) · [ResearchScope Search](https://huggingface.co/spaces/kishormorol/ResearchScope-Search) · [ResearchScope](https://huggingface.co/spaces/kishormorol/ResearchScope) · [CiteLens](https://huggingface.co/spaces/kishormorol/CiteLens) · [BanglaNLP Hub](https://huggingface.co/spaces/kishormorol/BanglaNLP-Hub) · [Agent Command Atlas](https://huggingface.co/spaces/kishormorol/agent-command-atlas) · [SkillsAllYouNeed](https://huggingface.co/spaces/kishormorol/SkillsAllYouNeed) · [promptlean](https://huggingface.co/spaces/kishormorol/promptlean)
 
 ## GitHub Activity
 
